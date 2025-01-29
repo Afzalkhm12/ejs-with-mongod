@@ -33,9 +33,6 @@ Aplikasi akan berjalan di http://localhost:3000 🚀
 💡 Kontribusi
 Jangan ragu untuk melakukan pull request atau membuka issue jika ada saran atau perbaikan. Mari berkembang bersama! 🌱
 
-📌 Lisensi
-Proyek ini menggunakan lisensi MIT. Silakan gunakan dan kembangkan sesuai kebutuhan!
-
 💙 Happy coding! 👨‍💻✨
 
 Copy
