@@ -11,7 +11,7 @@ Selamat datang di proyek ini! 🎉 Ini adalah aplikasi web yang dikembangkan men
 
 1️⃣ **Clone repositori ini**  
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/Afzalkhm12/ejs-with-mongod
 cd repo-name
 2️⃣ Instal dependensi
 
